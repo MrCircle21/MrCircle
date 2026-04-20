@@ -1,48 +1,83 @@
-# 👋 Hola, soy MrCirle
+# 👋Hola, soy MrCircle
 
-🔐 Especialista en auditorías básicas y tecnicos de seguridad web.
+🔐 Especialista en auditorías básicas y técnicas de seguridad web
 
-Ayudo a pequeños negocios, emprendedores o instituciones locales a proteger sus datos y presencia digital, evaluando sus riesgos básicos y corrigiendo fallas comunes con el uso de auditorias pasivas evaluando solo las vulnerabilibades del sitio.
+Ayudo a pequeños negocios, emprendedores e instituciones locales a proteger sus datos y su presencia digital.
+Me enfoco en las auditorías pasivas de sitios web, identificando vulnerabilidades frecuentes y entregando recomendaciones claras y aplicables, sin realizar intrusiones no autorizadas.
 
-## 📋Servicios
+🎯 Actualmente estoy:
+- Ofreciendo servicios de auditoría web para clientes que quieran mejorar su seguridad.
+- Tambien estoy abierto a oportunidades como Security Analyst / Junior Pentester / Web Security Consultant (remoto / híbrido).
 
-#### Auditoria Basica incluye  ⤵️
-- **Revision con check list**: check list creada para revisar los puntos vulnerables mas comunes en las paginas web.
+---
 
-- **Explicacion de los hallazgos**: Lo encontrado será explicado de forma clara.
+## 🧾 Servicios de auditoría
 
-- **Breve informe**: Informe ejecutivo donde se presentara lo encontrado junto con tabla de gestion de riesgos y recomendaciones generales.
-- --------- 
-#### Auditoria con informe tecnico  ⤵️
-- **Check list de revisión mas complejo**
-- **Recomendaciones tecnica: Con ejemplos y configuración**
-- **Explicacion de cada punto.**
-- **Evidencias (comandos y capturas)**
-- **Relacion de OWASP**: incluidas por hallazgos
-- **Niveles de riesgos**
-- **Criterios de verificación**
-------------
+### Auditoría básica
 
-#### Asesoria extendida ⤵️
-- **Revision de varios sitios o subdominios**
-- **Reuniones explicativas**: Tanto para resolverdudas como presentar buenas practicas y proximos pasos.
+- Revisión con checklist: evalúo los puntos vulnerables más comunes en páginas web.
+- Explicación de hallazgos en lenguaje claro, sin tecnicismos innecesarios.
+- Informe ejecutivo: incluye resumen, tabla de gestión de riesgos y recomendaciones generales para la mejora o mitigación.
 
-## 🧰 Herramientas
-|  nmap | owaspZAP  |
-|-|-|
-| Gobuster | curl |
-| Whatweb  | Testssl|
-| Wepscan |Wireshark|
+### Auditoría con informe técnico
+
+- Checklist de revisión más completo y detallado.
+- Recomendaciones técnicas: con ejemplos de configuración y buenas prácticas.
+- Explicación de cada punto detectado.
+- Evidencias: comandos utilizados y capturas de pantalla.
+- Relación con OWASP: mapeo de hallazgos a categorías OWASP relevantes.
+- Niveles de riesgo y criterios de verificación incluidos.
+
+### Asesoría extendida
+
+- Revisión de varios sitios o subdominios del mismo proyecto.
+- Reuniones explicativas: para resolver dudas, revisar buenas prácticas y definir próximos pasos.
+- Acompañamiento para priorizar qué corregir primero según riesgo e impacto en el negocio.
+
+---
+
+## 🧰 Tecnologías y herramientas
+
+- Nmap
+- OWASP ZAP
+- Gobuster
+- curl
+- WhatWeb
+- testssl
+- WPScan
+- Wireshark
+- Bash
+
+**Sistemas operativos**
+- Linux
+- Windows
 
 
-## 📁 Portafolio
+---
 
-👉 Ver auditorías realizadas abajo.
+## 📁 Portafolio / Proyectos
 
---- 
+👉 Aquí encontrarás ejemplos de auditorías y proyectos relacionados con seguridad web.  
+En cada uno detallo:
 
-### 📩 Contacto 
-##### Si necesitas ayuda en tu negocio o quieres saber que tan seguro estan tu y tus clientes contactame para una revision gratuita inicial
+- Tipo de sitio (ej. e‑commerce, blog corporativo, institución educativa).
+- Alcance de la auditoría.
+- Tipos de vulnerabilidades detectadas (sin exponer datos sensibles).
+- Mejores prácticas y correcciones sugeridas.
 
+---
 
-Email: Black-leather23@protonmail.com
+## 🚀 Oportunidades que busco
+
+- Proyectos freelance de auditoría de seguridad web y asesoría básica para negocios y pymes.  
+- Posiciones junior en equipos de ciberseguridad, análisis de vulnerabilidades o hardening de aplicaciones web.
+
+Si te interesa que revisemos tu sitio o quieres ver de qué forma podría aportar a tu equipo, podemos hablar.
+
+---
+
+## 📩 Contacto
+
+📧 Email: Black-leather23@protonmail.com  
+
+Escríbeme para agendar una revisión gratuita inicial de tu sitio (diagnóstico básico y próximos pasos).
