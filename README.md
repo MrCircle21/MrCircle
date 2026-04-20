@@ -29,10 +29,10 @@ Ayudo a pequeños negocios, emprendedores o instituciones locales a proteger sus
 
 ## 🧰 Herramientas
 |  nmap | owaspZAP  |
-|-|
-| Gobuster  | curl  |
-| Whatweb  | Testssl  |
-|  Wepscan |Wireshark|
+|-|-|
+| Gobuster | curl |
+| Whatweb  | Testssl|
+| Wepscan |Wireshark|
 
 
 ## 📁 Portafolio
