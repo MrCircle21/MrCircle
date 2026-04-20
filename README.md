@@ -6,14 +6,14 @@ Ayudo a pequeños negocios, emprendedores o instituciones locales a proteger sus
 
 ## 📋Servicios
 
-####Auditoria Basica incluye  ⤵️
+#### Auditoria Basica incluye  ⤵️
 - **Revision con check list**: check list creada para revisar los puntos vulnerables mas comunes en las paginas web.
 
 - **Explicacion de los hallazgos**: Lo encontrado será explicado de forma clara.
 
 - **Breve informe**: Informe ejecutivo donde se presentara lo encontrado junto con tabla de gestion de riesgos y recomendaciones generales.
 - --------- 
-####Auditoria con informe tecnico  ⤵️
+#### Auditoria con informe tecnico  ⤵️
 - **Check list de revisión mas complejo**
 - **Recomendaciones tecnica: Con ejemplos y configuración**
 - **Explicacion de cada punto.**
@@ -23,7 +23,7 @@ Ayudo a pequeños negocios, emprendedores o instituciones locales a proteger sus
 - **Criterios de verificación**
 ------------
 
-####Asesoria extendida ⤵️
+#### Asesoria extendida ⤵️
 - **Revision de varios sitios o subdominios**
 - **Reuniones explicativas**: Tanto para resolverdudas como presentar buenas practicas y proximos pasos.
 
